@@ -1,0 +1,19 @@
+# macOS metadata junk
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor / OS temp files
+*~
+*.swp
+*.tmp
+Thumbs.db
+
+# Common large data artefacts students sometimes drag in by mistake
+*.fastq.gz
+*.fq.gz
+*.bam
+*.sam
+*.zip
+*.tar.gz
