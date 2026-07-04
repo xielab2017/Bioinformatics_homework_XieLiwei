@@ -1,0 +1,2 @@
+# Bioinformatics_homework_XieLiwei
+SUAT_Bioinformatics_2026_Fall
