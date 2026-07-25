@@ -1,0 +1,30 @@
+{
+  "course_code": "EMP2026",
+  "emp_version": "8.0.0",
+  "layout": "week_first",
+  "week_dir": "Week_12",
+  "track_id": "multiomics",
+  "track_key": "multiomics",
+  "track_title": "多组学数据分析",
+  "assignment_type": "weekly",
+  "assignment_id": "week_12",
+  "assignment_title": "ChIPseq 联合分析",
+  "week": 12,
+  "type": "weekly",
+  "case_id": "course_multiomics",
+  "task_ids": [],
+  "student_id": "SUAT000946",
+  "display_name": "谢黎炜",
+  "github_login": "xielab2017",
+  "github_repo": "xielab2017/Bioinformatics_homework_XieLiwei",
+  "github_branch": "main",
+  "git_path": "EMP2026/Week_12/multiomics/weekly/runs/2026-07-25T00-45-11-205Z-tjjijz",
+  "session_id": "ebgD1pL7cBXj5Bsgy77yEEv3",
+  "experiment": "RNAseq_output",
+  "run_id": "2026-07-25T00-45-11-205Z-tjjijz",
+  "synced_at": "2026-07-25T00:45:11Z",
+  "include_rds": false,
+  "session_manifest": {
+    "session_id": "ebgD1pL7cBXj5Bsgy77yEEv3"
+  }
+}
